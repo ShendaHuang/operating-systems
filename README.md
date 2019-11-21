@@ -1,1 +1,1 @@
-This is the directory for my OS 1600.
+This repository holds works I've done in CSC 1600 Operating Systems at Villanova University.
